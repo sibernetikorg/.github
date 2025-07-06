@@ -1,7 +1,10 @@
 ## Welcome to Sibernetik
 
+<img src="https://raw.githubusercontent.com/sibernetikorg/.github/refs/heads/main/cezeri.png" width="300"/>
+
 **Ancient wisdom, modern technology.**
 Sibernetik is a community-driven collective where technologists, thinkers, and makers come together to **explore, build, and innovate** - inspired by the visionary spirit of **Al-Jazari**, a pioneer of mechanical engineering and automation.
+
 
 ---
 
